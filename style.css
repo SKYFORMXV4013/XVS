@@ -16,6 +16,11 @@
     font-size: medium ;
 }
 
+.linkowner {
+    color: black;
+}
+
+
 .IconLNW {
     outline-color: black;
     outline-width: 5px;
