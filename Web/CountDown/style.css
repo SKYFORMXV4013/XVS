@@ -1,0 +1,26 @@
+button {
+    width: 300px;
+    height: 40px;
+    background-color: rgb(0, 231, 116);
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 8px;
+    padding: 5px;
+    font-family: cursive;
+    font-size: 20px;
+    color: aliceblue;
+    }
+
+
+p {
+    text-align:center;
+    font-size: 60px;
+    margin:400px ;
+    font-family: cursive;
+    color: #ffffff;
+  }
+  
+
+  
+  body {
+      background-image: url(save\ back\ legendary\ new\ world\ 1.png);
+  }
