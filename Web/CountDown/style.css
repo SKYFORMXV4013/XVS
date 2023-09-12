@@ -1,7 +1,7 @@
 @media screen and (max-width: 1080px) {
     body {
         background-image: url(backgound.png);
-    padding: 100px;
+       background-size: 1080px;
     }
 }
 
