@@ -2,6 +2,7 @@
     body {
         background-image: url(backgound.png);
         align-items: center;
+                height: 1080px;
     }
 }
 
