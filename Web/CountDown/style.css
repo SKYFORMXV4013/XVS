@@ -1,7 +1,6 @@
 @media screen and (max-width: 1080px) {
     body {
         background-image: url(backgound.png);
-        align-items: center;
                 height: 300px;
     }
 }
