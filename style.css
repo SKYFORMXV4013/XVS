@@ -2,15 +2,6 @@
 @media screen and (max-width: 1080px) {
 
     
-    .Main {
-       background-image: url(save\ back\ legendary\ new\ world\ 1.png);
-        height: 512px;
-        width: 512px;
-        outline-color: black;
-        outline-width: 5px;
-        outline-style: solid;
-        border-radius: 12px;
-    }
 }
 
 @media screen and (max-width: 1920px) and (min-width: 1080px) {
